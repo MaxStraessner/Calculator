@@ -10,6 +10,9 @@ import java.lang.Math;
 
 public class Calculator {
 
+    //Änderungstest Max hallo heute 17.06 mal schauen ob es jetzt klappt
+
+
     private static final int WINDOW_WIDTH = 410;
     private static final int WINDOW_HEIGHT = 600;
     private static final int BUTTON_WIDTH = 80; // Button width
