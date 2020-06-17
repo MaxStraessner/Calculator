@@ -12,6 +12,8 @@ public class Calculator {
 
     //Änderungstest Max hallo heute 17.06 mal schauen ob es jetzt klappt
 
+    // maxwillneuetestbranche
+
 
     private static final int WINDOW_WIDTH = 410;
     private static final int WINDOW_HEIGHT = 600;
